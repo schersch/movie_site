@@ -4,7 +4,7 @@ fresh_tomatoes.py has had minor stylistic changes made from the starter code pro
 All other files were written by Mark Scherschel.
 
 To get started:
-Clone the repository: git clone https://github.com/schersch/fresh_tomatoes.git
+Clone the repository: git clone https://github.com/schersch/udacity_fsd_project_1.git
 Run movie_library.py
 
 Using the page:
